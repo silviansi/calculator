@@ -9,7 +9,9 @@ html {
 }
 
 h2, h5 {
+    padding-top: 10px;
     text-align: center;
+    font-size: 50px;
 }
 
 section {
@@ -23,13 +25,13 @@ section {
 .container {
     width: 90%;
     max-width: 400px;
-    background-color: #11a0a3;
+    background-color: #003a60;
     border-radius: 8px;
     overflow: hidden;
 }
 
 .operation ,.all-clear, .last-entity-clear, .equal {
-    background-color: #09898c;
+    background-color: #000101;
 }
 
 .display {
@@ -76,7 +78,7 @@ section {
 }
 
 .button:hover {
-    background-color: #0a939e;
+    background-color: #0d2fa1;
 }
 
 .btn-0 {
